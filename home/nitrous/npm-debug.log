@@ -1,0 +1,19 @@
+32879 error Error: ENOENT, lstat '/root/tmp/npm-2793-eYOwXxrb/1475757292498-0.11037947423756123/package/samples/twitter.json'
+32880 error If you need help, you may report this log at:
+32880 error     <http://github.com/isaacs/npm/issues>
+32880 error or email it to:
+32880 error     <npm-@googlegroups.com>
+32881 error System Linux 4.2.0-36-generic
+32882 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "storj"
+32883 error cwd /home/nitrous
+32884 error node -v v0.10.25
+32885 error npm -v 1.3.10
+32886 error path /root/tmp/npm-2793-eYOwXxrb/1475757292498-0.11037947423756123/package/samples/twitter.json
+32887 error fstream_path /root/tmp/npm-2793-eYOwXxrb/1475757292498-0.11037947423756123/package/samples/twitter.json
+32888 error fstream_type File
+32889 error fstream_class FileWriter
+32890 error code ENOENT
+32891 error errno 34
+32892 error fstream_stack /usr/lib/nodejs/fstream/lib/writer.js:284:26
+32892 error fstream_stack Object.oncomplete (fs.js:107:15)
+32893 verbose exit [ 34, true ]
